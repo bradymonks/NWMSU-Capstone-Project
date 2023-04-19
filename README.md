@@ -10,7 +10,7 @@ Using python analysis, I wanted to find where athletes are being produced among 
 
 I started with the EDA.ipynb script as wanted to get a general idea of the data I was using. I was able to put together some insightful visuals that allowed an idea of the data set to be formed. 
 
-![Conference and League Breakdown](C:/users/brady/desktop/NWMSU/NWMSU-Capstone-Project/ConferenceLeague.png)
+![Conference X League Breakdown](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/ConferenceLeague.png)
 
 
 # This repo will maintain the code and CSV file that I will be using. 
