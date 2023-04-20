@@ -1,0 +1,255 @@
+College,BirthPlace,MLB_score,NBA_score,NFL_score,Total,Rank
+University of Michigan,"Chicago, IL",26.5,52.5,14.0,22.0,1.0
+University of California-Los Angeles,"Chicago, IL",37.0,3.5,100.0,24.0,2.0
+University of Michigan,"Los Angeles, CA",17.5,81.5,21.5,24.0,2.0
+University of California-Los Angeles,"Los Angeles, CA",26.5,12.5,118.0,26.0,4.0
+University of Notre Dame,"Chicago, IL",158.5,33.5,1.5,29.0,5.0
+University of Southern California,"Chicago, IL",6.5,149.5,4.5,30.0,6.0
+University of Notre Dame,"Los Angeles, CA",152.0,52.5,4.5,31.0,7.0
+University of Southern California,"Los Angeles, CA",3.0,158.0,8.5,32.0,8.0
+University of Michigan,"Houston, TX",37.0,133.0,29.0,33.0,9.0
+University of California-Los Angeles,"Houston, TX",49.0,66.0,131.5,35.0,10.0
+University of Michigan,"New York, NY",49.0,97.5,138.5,38.0,11.0
+Louisiana State University,"Chicago, IL",61.5,140.0,37.0,38.0,11.0
+University of Notre Dame,"Houston, TX",164.0,129.0,8.5,40.0,13.0
+Louisiana State University,"Los Angeles, CA",49.0,144.5,47.0,40.0,13.0
+University of California-Los Angeles,"New York, NY",61.5,19.0,165.0,40.0,13.0
+University of Southern California,"Houston, TX",11.0,174.0,14.0,41.0,16.0
+University of Michigan,"Philadelphia, PA",147.5,66.0,118.0,42.0,17.0
+University of Michigan,"Dallas, TX",101.5,136.5,58.5,42.0,17.0
+University of Michigan,"Detroit, MI",158.5,125.0,47.0,43.0,19.0
+University of California-Los Angeles,"Philadelphia, PA",152.0,7.5,156.5,44.0,20.0
+University of California-Los Angeles,"Dallas, TX",119.5,81.5,145.0,44.0,20.0
+University of Notre Dame,"New York, NY",168.0,66.0,100.0,45.0,22.0
+University of California-Los Angeles,"Detroit, MI",164.0,33.5,141.5,45.0,22.0
+University of Southern California,"New York, NY",17.5,162.0,118.0,46.0,24.0
+University of Notre Dame,"Philadelphia, PA",189.5,42.0,71.0,49.0,25.0
+Louisiana State University,"Houston, TX",73.5,166.5,58.5,49.0,25.0
+University of Notre Dame,"Dallas, TX",180.0,130.5,29.0,49.0,25.0
+University of Notre Dame,"Detroit, MI",196.0,97.5,21.5,50.0,28.0
+University of Southern California,"Dallas, TX",61.5,178.0,37.0,50.0,28.0
+University of Southern California,"Philadelphia, PA",119.5,154.0,84.0,50.0,28.0
+University of Southern California,"Detroit, MI",142.0,166.5,29.0,51.0,31.0
+Ohio State University,"Chicago, IL",192.0,130.5,8.5,51.0,31.0
+Ohio State University,"Los Angeles, CA",189.5,136.5,14.0,53.0,33.0
+Louisiana State University,"New York, NY",86.5,149.5,148.5,54.0,34.0
+University of Michigan,"St. Louis, MO",142.0,154.0,131.5,55.0,35.0
+University of Michigan,"Brooklyn, NY",119.5,113.5,173.0,55.0,35.0
+University of North Carolina at Chapel Hill,"Chicago, IL",134.0,7.5,198.0,55.0,35.0
+University of California-Los Angeles,"Brooklyn, NY",134.0,26.0,195.5,57.0,38.0
+University of North Carolina at Chapel Hill,"Los Angeles, CA",119.5,19.0,201.0,57.0,38.0
+University of California-Los Angeles,"Atlanta, GA",180.0,42.0,165.0,58.0,40.0
+Louisiana State University,"Dallas, TX",142.0,169.5,100.0,58.0,40.0
+Louisiana State University,"Detroit, MI",172.0,158.0,84.0,59.0,42.0
+Ohio State University,"Houston, TX",196.0,158.0,21.5,62.0,43.0
+University of Notre Dame,"Brooklyn, NY",184.5,81.5,165.0,62.0,43.0
+University of Michigan,"Cleveland, OH",184.5,158.0,71.0,62.0,43.0
+University of Notre Dame,"St. Louis, MO",187.0,144.5,84.0,62.0,43.0
+University of Southern California,"Brooklyn, NY",73.5,164.0,168.5,63.0,47.0
+University of Southern California,"St. Louis, MO",101.5,192.5,100.0,63.0,47.0
+University of Notre Dame,"Atlanta, GA",207.5,113.5,100.0,63.0,47.0
+University of Texas,"Chicago, IL",3.0,205.0,145.0,63.0,47.0
+University of Southern California,"Atlanta, GA",168.0,169.5,118.0,64.0,51.0
+University of Texas,"Los Angeles, CA",1.0,210.0,148.5,65.0,52.0
+University of North Carolina at Chapel Hill,"Houston, TX",142.0,81.5,203.5,66.0,53.0
+University of California-Los Angeles,"Baltimore, MD",176.0,52.5,192.0,67.0,54.0
+Ohio State University,"New York, NY",200.5,140.0,131.5,67.0,54.0
+Florida State University,"Chicago, IL",86.5,182.0,156.5,68.0,56.0
+University of Michigan,"Cincinnati, OH",73.5,198.5,145.0,68.0,56.0
+University of Notre Dame,"Cleveland, OH",211.0,149.5,37.0,69.0,58.0
+University of Southern California,"Cleveland, OH",174.5,196.5,47.0,70.0,59.0
+University of Michigan,"San Francisco, CA",134.0,178.0,160.5,70.0,59.0
+Florida State University,"Los Angeles, CA",73.5,186.5,160.5,70.0,59.0
+University of California-Los Angeles,"Cincinnati, OH",86.5,178.0,170.0,70.0,59.0
+University of North Carolina at Chapel Hill,"New York, NY",147.5,26.0,223.0,71.0,63.0
+Ohio State University,"Philadelphia, PA",213.5,133.0,100.0,71.0,63.0
+Ohio State University,"Dallas, TX",207.5,162.0,47.0,71.0,63.0
+University of Florida,"Chicago, IL",147.5,201.0,118.0,71.0,63.0
+Stanford University,"Chicago, IL",17.5,192.5,181.0,72.0,67.0
+Ohio State University,"Detroit, MI",217.0,144.5,37.0,72.0,67.0
+University of Michigan,"Pittsburgh, PA",168.0,196.5,100.0,72.0,67.0
+University of Arizona,"Chicago, IL",49.0,66.0,232.0,72.0,67.0
+University of Alabama,"Chicago, IL",101.5,221.5,71.0,72.0,67.0
+University of Notre Dame,"Baltimore, MD",204.5,125.0,156.5,72.0,67.0
+University of Florida,"Los Angeles, CA",142.0,205.0,131.5,73.0,73.0
+Stanford University,"Los Angeles, CA",11.0,198.5,184.5,74.0,74.0
+University of Arizona,"Los Angeles, CA",37.0,97.5,236.0,74.0,74.0
+University of Texas,"Houston, TX",6.5,226.0,150.5,74.0,74.0
+University of Alabama,"Los Angeles, CA",86.5,226.0,84.0,74.0,74.0
+University of Michigan,"San Diego, CA",61.5,210.0,150.5,74.0,74.0
+University of Michigan,"New Orleans, LA",213.5,149.5,84.0,75.0,79.0
+University of Notre Dame,"Cincinnati, OH",174.5,192.5,131.5,75.0,79.0
+University of North Carolina at Chapel Hill,"Philadelphia, PA",180.0,12.5,218.0,75.0,79.0
+University of North Carolina at Chapel Hill,"Dallas, TX",168.0,97.5,211.5,75.0,79.0
+University of Tennessee,"Chicago, IL",204.5,166.5,84.0,75.0,79.0
+University of North Carolina at Chapel Hill,"Detroit, MI",186.0,42.0,208.0,76.0,84.0
+University of Southern California,"Cincinnati, OH",37.0,231.0,138.5,76.0,84.0
+University of California-Los Angeles,"San Diego, CA",73.5,192.5,177.0,76.0,84.0
+University of Tennessee,"Los Angeles, CA",203.0,171.5,100.0,77.0,87.0
+University of Michigan,"Miami, FL",158.5,229.0,37.0,78.0,88.0
+University of Southern California,"San Francisco, CA",86.5,214.5,153.0,78.0,88.0
+Louisiana State University,"Cleveland, OH",189.5,183.0,118.0,78.0,88.0
+University of Notre Dame,"Pittsburgh, PA",202.0,186.5,58.5,79.0,91.0
+University of California-Berkeley,"Los Angeles, CA",119.5,186.5,181.0,79.0,91.0
+University of Texas,"New York, NY",11.0,214.5,181.0,79.0,91.0
+Florida State University,"Houston, TX",101.5,205.0,165.0,79.0,91.0
+Michigan State University,"Chicago, IL",234.5,81.5,138.5,80.0,95.0
+University of Southern California,"Pittsburgh, PA",152.0,229.0,71.0,80.0,95.0
+University of Southern California,"San Diego, CA",26.5,242.5,145.0,82.0,97.0
+University of Notre Dame,"New Orleans, LA",234.5,142.0,47.0,82.0,97.0
+Michigan State University,"Los Angeles, CA",233.0,113.5,141.5,82.0,97.0
+University of Texas,"Dallas, TX",49.0,229.0,160.5,83.0,100.0
+University of Texas,"Philadelphia, PA",101.5,207.5,173.0,83.0,100.0
+Stanford University,"Houston, TX",26.5,214.5,187.5,83.0,100.0
+University of California-Los Angeles,"Memphis, TN",215.0,97.5,181.0,83.0,100.0
+University of Arizona,"Houston, TX",61.5,136.5,239.0,83.0,100.0
+University of Southern California,"New Orleans, LA",210.0,186.5,58.5,83.0,100.0
+University of Alabama,"Houston, TX",119.5,239.0,100.0,83.0,100.0
+Ohio State University,"St. Louis, MO",212.0,174.0,118.0,84.0,107.0
+University of Texas,"Detroit, MI",134.0,220.0,156.5,84.0,107.0
+Florida State University,"New York, NY",119.5,192.5,192.0,84.0,107.0
+Louisiana State University,"Cincinnati, OH",119.5,223.5,153.0,84.0,107.0
+Ohio State University,"Atlanta, GA",224.5,149.5,131.5,85.0,111.0
+Arizona State University,"Chicago, IL",11.0,233.0,173.0,85.0,111.0
+University of Notre Dame,"Miami, FL",196.0,223.5,14.0,85.0,111.0
+University of Southern California,"Miami, FL",142.0,250.0,21.5,86.0,114.0
+University of Tennessee,"Houston, TX",207.5,186.5,118.0,86.0,114.0
+Arizona State University,"Los Angeles, CA",6.5,236.0,177.0,87.0,116.0
+University of Arizona,"New York, NY",73.5,113.5,255.5,88.0,117.0
+Stanford University,"New York, NY",37.0,201.0,208.0,88.0,117.0
+University of North Carolina at Chapel Hill,"Brooklyn, NY",172.0,33.5,245.0,88.0,117.0
+University of North Carolina at Chapel Hill,"Atlanta, GA",200.5,52.5,223.0,89.0,120.0
+Louisiana State University,"San Diego, CA",101.5,235.0,160.5,90.0,121.0
+University of Southern California,"Oakland, CA",134.0,214.5,187.5,91.0,122.0
+Ohio State University,"Cleveland, OH",230.0,178.0,58.5,91.0,122.0
+Louisiana State University,"New Orleans, LA",219.5,181.0,131.5,91.0,122.0
+Stanford University,"Dallas, TX",86.5,218.5,194.0,92.0,125.0
+University of Arizona,"Philadelphia, PA",158.5,81.5,250.5,92.0,125.0
+University of Oklahoma,"Chicago, IL",101.5,256.5,47.0,93.0,127.0
+University of Alabama,"Detroit, MI",180.0,233.0,131.5,93.0,127.0
+Louisiana State University,"Miami, FL",172.0,246.5,71.0,94.0,129.0
+University of Oklahoma,"Los Angeles, CA",86.5,259.5,58.5,95.0,130.0
+University of Texas,"Brooklyn, NY",61.5,218.5,208.0,96.0,131.0
+Michigan State University,"New York, NY",237.5,125.0,173.0,96.0,131.0
+University of Texas,"St. Louis, MO",86.5,239.0,177.0,96.0,131.0
+Arizona State University,"Houston, TX",17.5,246.5,181.0,96.0,131.0
+University of North Carolina at Chapel Hill,"Baltimore, MD",196.0,66.0,242.0,98.0,135.0
+University of Minnesota,"Chicago, IL",243.5,81.5,184.5,99.0,136.0
+Michigan State University,"Philadelphia, PA",249.0,97.5,168.5,100.0,137.0
+Arizona State University,"New York, NY",26.5,239.0,203.5,101.0,138.0
+University of Minnesota,"Los Angeles, CA",241.5,113.5,187.5,101.0,138.0
+Ohio State University,"Pittsburgh, PA",221.5,214.5,84.0,101.0,138.0
+University of California-Los Angeles,"Louisville, KY",230.0,113.5,208.0,103.0,141.0
+Ohio State University,"New Orleans, LA",252.0,171.5,71.0,104.0,142.0
+University of Oklahoma,"Houston, TX",119.5,265.5,71.0,104.0,142.0
+Arizona State University,"Dallas, TX",73.5,248.0,190.0,105.0,144.0
+University of Arizona,"Brooklyn, NY",142.0,125.0,272.5,105.0,144.0
+Stanford University,"Brooklyn, NY",101.5,203.0,228.5,105.0,144.0
+University of Michigan,"Long Beach, CA",86.5,207.5,228.5,106.0,147.0
+Ohio State University,"Miami, FL",217.0,244.0,29.0,107.0,148.0
+University of California-Los Angeles,"Long Beach, CA",101.5,186.5,247.5,108.0,149.0
+University of Texas,"Cincinnati, OH",26.5,256.5,187.5,109.0,150.0
+University of California-Los Angeles,"INpolis, IN",230.0,125.0,220.5,110.0,151.0
+University of Texas,"San Francisco, CA",73.5,250.0,198.0,111.0,152.0
+University of Oklahoma,"Dallas, TX",158.5,267.0,118.0,113.0,153.0
+University of Oklahoma,"Detroit, MI",180.0,263.5,100.0,114.0,154.0
+University of North Carolina at Chapel Hill,"Memphis, TN",226.5,113.5,232.0,114.0,154.0
+University of Southern California,"Long Beach, CA",49.0,239.0,225.5,114.0,154.0
+University of Texas,"San Diego, CA",17.5,263.5,192.0,115.0,157.0
+University of Kentucky,"Chicago, IL",247.0,1.0,236.0,116.0,158.0
+University of Arizona,"Cincinnati, OH",101.5,201.0,261.5,118.0,159.0
+Arizona State University,"St. Louis, MO",119.5,253.0,201.0,118.0,159.0
+Stanford University,"Cincinnati, OH",61.5,252.0,214.0,118.0,159.0
+Arizona State University,"Brooklyn, NY",86.5,242.5,225.5,118.0,159.0
+University of Kentucky,"Los Angeles, CA",246.0,7.5,239.0,118.0,159.0
+University of Texas,"Miami, FL",134.0,269.0,153.0,119.0,164.0
+University of Minnesota,"Philadelphia, PA",255.5,97.5,205.0,119.0,164.0
+Stanford University,"San Francisco, CA",119.5,245.0,223.0,120.0,166.0
+Indiana University,"Chicago, IL",262.0,26.0,211.5,121.0,167.0
+Louisiana State University,"Long Beach, CA",134.0,233.0,239.0,122.0,168.0
+Indiana University,"Los Angeles, CA",259.5,42.0,214.0,123.0,169.0
+University of Arizona,"San Diego, CA",86.5,214.5,264.5,124.0,170.0
+University of Texas,"Oakland, CA",119.5,250.0,220.5,124.0,170.0
+Stanford University,"San Diego, CA",49.0,256.5,216.0,124.0,170.0
+University of Miami,"Chicago, IL",158.5,273.0,58.5,126.0,173.0
+University of Kentucky,"Houston, TX",249.0,52.5,241.0,127.0,174.0
+University of Alabama,"Miami, FL",180.0,272.0,118.0,128.0,175.0
+University of Miami,"Los Angeles, CA",152.0,274.0,71.0,128.0,175.0
+Duke University,"Chicago, IL",224.5,12.5,277.0,129.0,177.0
+Arizona State University,"Cincinnati, OH",49.0,268.0,208.0,131.0,178.0
+Duke University,"Los Angeles, CA",223.0,26.0,278.5,131.0,178.0
+University of Kentucky,"New York, NY",252.0,12.5,259.0,132.0,180.0
+Arizona State University,"San Francisco, CA",101.5,261.5,218.0,133.0,181.0
+University of North Carolina at Chapel Hill,"Louisville, KY",241.5,125.0,255.5,134.0,182.0
+University of Kentucky,"Philadelphia, PA",258.0,3.5,252.5,136.0,183.0
+University of Kentucky,"Dallas, TX",255.5,66.0,245.0,136.0,183.0
+University of Miami,"Houston, TX",164.0,276.0,84.0,137.0,185.0
+Arizona State University,"San Diego, CA",37.0,271.0,214.0,137.0,185.0
+Indiana University,"New York, NY",265.0,52.5,232.0,137.0,185.0
+University of Kentucky,"Detroit, MI",262.0,26.0,243.0,137.0,185.0
+Duke University,"Houston, TX",226.5,97.5,280.0,140.0,189.0
+Indiana University,"Philadelphia, PA",271.0,33.5,227.0,141.0,190.0
+Indiana University,"Detroit, MI",273.0,81.5,218.0,142.0,191.0
+Duke University,"New York, NY",230.0,33.5,288.5,145.0,192.0
+University of Miami,"Detroit, MI",196.0,275.0,118.0,147.0,193.0
+University of Texas,"Long Beach, CA",37.0,261.5,259.0,147.0,193.0
+University of Oklahoma,"Miami, FL",180.0,278.5,84.0,149.0,195.0
+Duke University,"Dallas, TX",236.0,113.5,284.0,149.0,195.0
+Duke University,"Philadelphia, PA",243.5,19.0,285.5,149.0,195.0
+University of Kentucky,"Brooklyn, NY",257.0,19.0,274.5,149.0,195.0
+University of Kentucky,"Atlanta, GA",268.0,33.5,259.0,150.0,199.0
+Duke University,"Detroit, MI",245.0,52.5,283.0,150.0,199.0
+University of Kansas,"Chicago, IL",277.0,19.0,245.0,152.0,201.0
+Indiana University,"Brooklyn, NY",270.0,66.0,255.5,154.0,202.0
+University of Kansas,"Los Angeles, CA",275.5,33.5,247.5,154.0,202.0
+Indiana University,"Atlanta, GA",280.5,97.5,232.0,155.0,204.0
+University of Arizona,"Long Beach, CA",119.5,210.0,294.0,156.0,205.0
+Stanford University,"Long Beach, CA",73.5,254.0,274.5,156.0,205.0
+University of Kentucky,"Baltimore, MD",267.0,42.0,270.5,159.0,207.0
+Duke University,"Brooklyn, NY",237.5,42.0,295.0,162.0,208.0
+University of Kansas,"Houston, TX",278.5,113.5,249.0,163.0,209.0
+Duke University,"Atlanta, GA",254.0,66.0,288.5,163.0,209.0
+Indiana University,"Baltimore, MD",278.5,113.5,250.5,164.0,211.0
+University of Kansas,"New York, NY",280.5,42.0,267.5,168.0,212.0
+Arizona State University,"Long Beach, CA",61.5,270.0,270.5,169.0,213.0
+University of Nebraska,"Chicago, IL",219.5,286.0,29.0,171.0,214.0
+University of Kansas,"Philadelphia, PA",285.0,26.0,264.5,172.0,215.0
+Duke University,"Baltimore, MD",252.0,81.5,293.0,172.0,215.0
+University of Kansas,"Detroit, MI",286.0,66.0,252.5,173.0,217.0
+University of Nebraska,"Los Angeles, CA",217.0,288.0,37.0,173.0,217.0
+University of Kentucky,"Memphis, TN",283.0,81.5,267.5,175.0,219.0
+University of Miami,"Miami, FL",196.0,296.5,100.0,182.0,220.0
+University of Nebraska,"Houston, TX",221.5,292.0,47.0,182.0,220.0
+University of Kansas,"Brooklyn, NY",284.0,52.5,281.5,185.0,222.0
+University of Kansas,"Atlanta, GA",290.0,81.5,267.5,186.0,223.0
+Pennsylvania State University,"Chicago, IL",262.0,277.0,21.5,189.0,224.0
+Pennsylvania State University,"Los Angeles, CA",259.5,278.5,29.0,191.0,225.0
+University of Nebraska,"Dallas, TX",230.0,293.0,84.0,191.0,225.0
+University of Nebraska,"Detroit, MI",239.5,291.0,71.0,192.0,227.0
+University of Kentucky,"Louisville, KY",287.5,97.5,281.5,195.0,228.0
+University of Kansas,"Baltimore, MD",289.0,97.5,278.5,195.0,228.0
+Pennsylvania State University,"Houston, TX",264.0,283.5,37.0,200.0,230.0
+University of Kentucky,"INpolis, IN",287.5,113.5,285.5,202.0,231.0
+Pennsylvania State University,"Dallas, TX",269.0,285.0,71.0,209.0,232.0
+Pennsylvania State University,"Detroit, MI",273.0,280.5,58.5,210.0,233.0
+University of Nebraska,"Cleveland, OH",249.0,295.0,100.0,211.0,234.0
+College of the Holy Cross,"Chicago, IL",73.5,280.5,290.0,220.0,235.0
+College of the Holy Cross,"Los Angeles, CA",61.5,282.0,291.0,222.0,236.0
+University of Nebraska,"New Orleans, LA",266.0,294.0,118.0,224.0,237.0
+University of Nebraska,"Miami, FL",239.5,300.0,58.5,227.0,238.0
+Pennsylvania State University,"Cleveland, OH",282.0,290.0,84.0,229.0,239.0
+College of the Holy Cross,"Houston, TX",86.5,288.0,292.0,231.0,240.0
+College of the Holy Cross,"New York, NY",101.5,283.5,296.0,236.0,241.0
+Pennsylvania State University,"Pittsburgh, PA",275.5,296.5,118.0,239.0,242.0
+Pennsylvania State University,"New Orleans, LA",291.0,288.0,100.0,242.0,243.0
+Pennsylvania State University,"Miami, FL",273.0,299.0,47.0,245.0,244.0
+College of the Holy Cross,"San Diego, CA",119.5,298.0,297.0,272.0,245.0
+University of Louisville,"Chicago, IL",296.0,42.0,261.5,405.0,246.0
+University of Louisville,"Los Angeles, CA",295.0,66.0,263.0,407.0,247.0
+University of Louisville,"New York, NY",297.0,81.5,276.0,421.0,248.0
+University of Louisville,"Philadelphia, PA",299.0,52.5,272.5,425.0,249.0
+University of Louisville,"Detroit, MI",300.0,113.5,267.5,426.0,250.0
+University of Louisville,"Brooklyn, NY",298.0,97.5,287.0,438.0,251.0
+St. John's University,"Chicago, IL",293.0,81.5,298.0,528.0,252.0
+St. John's University,"Los Angeles, CA",292.0,113.5,299.0,530.0,253.0
+St. John's University,"Philadelphia, PA",294.0,97.5,300.0,548.0,254.0

@@ -70,11 +70,17 @@ Red bars indicate that school is in the top 10 for that League, while gray bars 
 
 In order to achieve a final ranking for all the colleges, I needed get a pivot table that include a row for each college and had their ranking for each League. From there, I added another column that summed up the totals rankings to give me a score. Using principles from golf (lowest score wins), I then sorted the new summed column and ranked the schools from there. These new scores indicate which schools were near the top for everything, or possibly near the top for one or two and lacked in the other(s). 
 
-image.png
+![Final College Ranks](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/CollegeFinalRanks.png)
 
 I performed the same transformation using the BirthPlace feature and got the following results. 
 
-![Summary Statistics](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/SummaryStatistics2.png)
+![Ranks & Percents - BirthPlace](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/ranks_percents_birthplace.png)
+
+
+![Top 10 - BirthPlace](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/Top10BirthPlace.png)
+
+
+![Final College Ranks](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/BirthPlaceFinalRanks.png)
 
 
 
