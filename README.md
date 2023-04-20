@@ -14,7 +14,7 @@ I started with the EDA.ipynb script as wanted to get a general idea of the data 
 
 Since my data was primarily categorical, I wanted to see what kind of data was popping up the most for each feature, so I created a table that showed the top 10 most frequent values for each feature.
 
-![Summary Statistics](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/images/SummaryStatistics2.png)
+![Summary Statistics](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/SummaryStatistics2.png)
 
 ### Bar Charts
 
