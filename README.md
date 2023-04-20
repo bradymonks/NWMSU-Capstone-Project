@@ -9,18 +9,18 @@ Walk through the AthleteDatabase.csv file with me as I perform analysis on it an
 Using python analysis, I wanted to find where athletes are being produced among the three major sporting leagues in the United States - Major League Baseball, National Basketball Association, and National Football League. Performing EDA on the data and introducing a new metric, I was able to get quality results over an abundance of data.
 
 ## Data
--MLB
-https://www.kaggle.com/datasets/freshrenzo/lahmanbaseballdatabase?select=Master.csv 
-https://www.kaggle.com/datasets/freshrenzo/lahmanbaseballdatabase?select=Schools.csv
-https://www.kaggle.com/datasets/freshrenzo/lahmanbaseballdatabase?select=SchoolsPlayers.csv
--NFL
-https://www.kaggle.com/datasets/zynicide/nfl-football-player-stats?select=profiles_1512362725.022629.json
--NBA
-https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=player_data.csv 
--NCAA
-https://github.com/gboeing/data-visualization/blob/main/ncaa-football-stadiums/data/stadiums-geocoded.csv
--Cities
-https://github.com/grammakov/USA-cities-and-states 
+*MLB
+    - https://www.kaggle.com/datasets/freshrenzo/lahmanbaseballdatabase?select=Master.csv 
+    - https://www.kaggle.com/datasets/freshrenzo/lahmanbaseballdatabase?select=Schools.csv
+    - https://www.kaggle.com/datasets/freshrenzo/lahmanbaseballdatabase?select=SchoolsPlayers.csv
+*NFL
+    - https://www.kaggle.com/datasets/zynicide/nfl-football-player-stats?select=profiles_1512362725.022629.json
+*NBA
+    - https://www.kaggle.com/datasets/drgilermo/nba-players-stats?select=player_data.csv 
+*NCAA
+    - https://github.com/gboeing/data-visualization/blob/main/ncaa-football-stadiums/data/stadiums-geocoded.csv
+*Cities
+    - https://github.com/grammakov/USA-cities-and-states 
 
 
 ## Exploratory Data Analysis
