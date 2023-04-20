@@ -10,6 +10,12 @@ Using python analysis, I wanted to find where athletes are being produced among 
 
 I started with the EDA.ipynb script as wanted to get a general idea of the data I was using. I was able to put together some insightful visuals that allowed an idea of the data set to be formed. My analysis included code from pandas, matplotlib, plotly, seaborn, and scipy. 
 
+### Categorical Frequencies
+
+Since my data was primarily categorical, I wanted to see what kind of data was popping up the most for each feature, so I created a table that showed the top 10 most frequent values for each feature.
+
+![Summary Statistics](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/images/SummaryStatistics2.png)
+
 ### Bar Charts
 
 I started by looking at the league breakdown among Conference and Birth State. Using pyplot from matplotlib, I created some stacked bar charts. 
@@ -38,7 +44,7 @@ United States Heat Map
 
 I also used pandas to help me along with some summary statistics. I used the .describe() function to help me see the top frequencies for each sport among the "College" and "BirthPlace" features. 
 
-![Summary Statistics](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/SummaryStatistics2.png)
+![Summary Statistics](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/SummaryStatistics3.png)
 
 ## Chi-Squared
 
