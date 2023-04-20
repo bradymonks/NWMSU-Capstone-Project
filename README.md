@@ -28,14 +28,32 @@ To transform these graphs to see the actual data, I created some contingency tab
 
 ### Interactive Charts
 
-Using plotly, I was able to create some neat interactive graphs that feel like I'm taking a deeper dive into the data. 
+Using plotly, I was able to create a neat interactive map of the U.S. that feels like I'm taking a deeper dive into the data. 
 
-<iframe src="https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/athlete_bar_chart.html"></iframe>
-
-Athlete Bar Chart
-
-<iframe src="https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/athlete_map.html"></iframe>
+![Heat Map](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/HeatMap.png)
 
 United States Heat Map
+
+## Summary Statistics
+
+I also used pandas to help me along with some summary statistics. I used the .describe() function to help me see the top frequencies for each sport among the "College" and "BirthPlace" features. 
+
+![Summary Statistics](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/SummaryStatistics2.png)
+
+## Chi-Squared
+
+I also ran a Chi-Squared test on these three features - BirthPlace, College, Conference - with League to see what the association was like. All three features had indications that there was strong assiciation between each feature and League.
+
+For BirthPlace, the statistic was 20,646 with a P-value of  5.77328e-169 and 15,284 Degrees of Freedom. 
+
+Conference had a statistic of 1,122 and a P-value of  6.309067e-205 to go with 46 Degrees of Freedom.
+
+To go with a statistic of 19,392 College had a P-value of 0 and 2,922 Degrees of Freedom. 
+
+# New Score
+
+In my NewScore.ipynb script, I wanted to introduce a new metric that would allow me to score/rank cities, colleges and combinations of both to help deduct the best options for each professional league. I only scored the features "College" and "BirthPlace". 
+
+To start, I loaded the csv and 
 
 # This repo will maintain the code and CSV file that I will be using alongside any extra files to be used. 
