@@ -30,7 +30,7 @@ To transform these graphs to see the actual data, I created some contingency tab
 
 Using plotly, I was able to create a neat interactive map of the U.S. that feels like I'm taking a deeper dive into the data. 
 
-![Heat Map](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/HeatMap.png)
+![Heat Map](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/HeatMap.png)
 
 United States Heat Map
 
@@ -38,7 +38,7 @@ United States Heat Map
 
 I also used pandas to help me along with some summary statistics. I used the .describe() function to help me see the top frequencies for each sport among the "College" and "BirthPlace" features. 
 
-![Summary Statistics](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/SummaryStatistics2.png)
+![Summary Statistics](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/SummaryStatistics2.png)
 
 ## Chi-Squared
 
