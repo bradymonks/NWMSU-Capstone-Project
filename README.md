@@ -88,6 +88,15 @@ I performed the same transformation using the BirthPlace feature and got the fol
 
 ![Final College Ranks](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/BirthPlaceFinalRanks.png)
 
+## Finding Results
+
+In my FindingResults.ipynb script, I wanted to get actionable insight by generating some BirthPlace-College pipelines.
+
+I initiated this by creating a function that I would use in a for loop to generate scores for every BirthPlace-College combination in each sport. Uisng pandas and itertools, I made the list necessary to apply the function within the for loop. 
+
+Using the FinalCollegeRankings.csv and FinalBirthPlaceRankings.csv I created in the NewScore script, for each League, I combined the ranking of the BirthPlace and College to come up with a new score again, and re-ranked the list again, giving me the combinations with the lowest scores in each League and overall. 
+
+![Top BirthPlace + College Combos](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/CityCollegeAll10.png)
 
 
 # This repo will maintain the code and CSV file that I will be using alongside any extra files to be used. 
