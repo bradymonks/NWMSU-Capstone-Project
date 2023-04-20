@@ -20,17 +20,17 @@ Since my data was primarily categorical, I wanted to see what kind of data was p
 
 I started by looking at the league breakdown among Conference and Birth State. Using pyplot from matplotlib, I created some stacked bar charts. 
 
-![Conference X League Breakdown](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/ConferenceLeague.png)
+![Conference X League Breakdown](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/images/ConferenceLeague.png)
 
-![State X League Breakdown](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/StateLeague.png)
+![State X League Breakdown](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/images/StateLeague.png)
 
 ### Contigency Tables
 
 To transform these graphs to see the actual data, I created some contingency tables. I sorted them by actual athlete production so that the top producers are first. To create these, I used the crosstab function from pandas. 
 
-![Conference X League Breakdown](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/ContTableConf.png)
+![Conference X League Breakdown](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/images/ContTableConf.png)
 
-![State X League Breakdown](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/ContTableState.png)
+![State X League Breakdown](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/images/ContTableState.png)
 
 ### Interactive Charts
 
