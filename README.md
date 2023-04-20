@@ -62,6 +62,8 @@ In my NewScore.ipynb script, I wanted to introduce a new metric that would allow
 
 To start, I loaded the csv and wrote some code that grouped by League and College, giving me the total counts for each college in each league. I then added another column that took the total amount of athletes for each college in a specific league and divided it by the total amount of athletes in that league, giving me the percentage that that college made up of that league. From there I sorted the dataframe by League and Percentage and ranked by three the dataframe, giving me top rank for each league and going down. 
 
+### College
+
 ![Ranks & Percents](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/ranks_percents.png)
 
 Then I filtered that dataframe to just give me all the schools that appeared in the top 10 of any league to be included for a graph. 
@@ -77,6 +79,8 @@ Red bars indicate that school is in the top 10 for that League, while gray bars 
 In order to achieve a final ranking for all the colleges, I needed get a pivot table that include a row for each college and had their ranking for each League. From there, I added another column that summed up the totals rankings to give me a score. Using principles from golf (lowest score wins), I then sorted the new summed column and ranked the schools from there. These new scores indicate which schools were near the top for everything, or possibly near the top for one or two and lacked in the other(s). 
 
 ![Final College Ranks](https://github.com/bradymonks/NWMSU-Capstone-Project/blob/main/Images/CollegeFinalRanks.png)
+
+### BirthPlace
 
 I performed the same transformation using the BirthPlace feature and got the following results. 
 
